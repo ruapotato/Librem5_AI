@@ -9,3 +9,7 @@ Run the api to expose the MAGI AIs on your LAN
 App setup
 ---------
 Update the IP to point at your MAGI server and  run the app.
+
+Status
+------
+Proof of concept, partly working.
